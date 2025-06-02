@@ -6,13 +6,13 @@ Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, como Assisten
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql" />
   </a>
 </p>
 
 ## 📫 Como me encontrar
 
 * **LinkedIn:** https://www.linkedin.com/in/marcos-mrad-8615611b2/
-* **Email:** marcosmradjr@gmail.com (Opcional)
+* **Email:** marcosmradjr@gmail.com
 
 ---
