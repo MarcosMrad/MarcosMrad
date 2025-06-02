@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Marcos Antonio Mrad Junior  👋
 
-<!--
-**MarcosMrad/MarcosMrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, como Assistente de Suporte Técnico na Secretaria Municipal de Saúde, lido diariamente com a resolução de incidentes em hardware e softwares, prestando suporte aos usuários e garantindo a funcionalidade de sistemas próprios.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que utilizo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  </a>
+</p>
+
+## 📫 Como me encontrar
+
+* **LinkedIn:** https://www.linkedin.com/in/marcos-mrad-8615611b2/
+* **Email:** marcosmradjr@gmail.com (Opcional)
+
+---
