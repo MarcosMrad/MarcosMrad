@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos Mrad  👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, como Assistente de Suporte Técnico na Secretaria Municipal de Saúde, lido diariamente com a resolução de incidentes em hardware e softwares, prestando suporte aos usuários e garantindo a funcionalidade de sistemas próprios.
+Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, como Assistente de Suporte Técnico na Secretaria Municipal de Saúde, lido diariamente com a resolução de incidentes em hardware e softwares, prestando suporte aos usuários e garantindo a funcionalidade de sistemas.
 
 ## 🚀 Tecnologias que utilizo
 
