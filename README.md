@@ -6,7 +6,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, como Assisten
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,angular" />
   </a>
 </p>
 
