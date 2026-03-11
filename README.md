@@ -13,7 +13,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, como Assisten
 ## 📫 Como me encontrar
 
 * **Email:** marcosmradjr@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/marcos-mrad-8615611b2/
+* **LinkedIn:** https://www.linkedin.com/in/marcosmrad/
 
 
 ---
